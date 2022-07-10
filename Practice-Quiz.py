@@ -246,6 +246,7 @@ def main():
     grade = calculate_Score(score, len(question))
     print("_________________________________________")
     print(f"You got {grade[0]} out of {grade[1]}. That's {grade[2]:.2f}%")
+    print("Thanks so much and good luck everyone~!")
     
 main()
 
